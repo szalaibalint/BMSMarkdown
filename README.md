@@ -1,4 +1,2 @@
-# Bookstore Management System / Könyvesbolt Menedzsment Rendszer
-<br><br>
-## [Magyar](magyar.md)
-## [Angol](english.md)
+# [Bookstore Management System](english.md)
+# [Könyvesbolt Menedzsment Rendszer](magyar.md)
