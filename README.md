@@ -115,20 +115,20 @@ For make a system computerized.
 <a name="25"></a>
 #### 2.5	Planning and scheduling
 Different amount of time may be required for each stage in the project cycle, depending on the particulars of the key aspect of the project cycle seem to recur during development process. The information obtained during the requirement gathering of pre-development phase provides the impetus for the requirement analysis and the information is further used in the design phase.
-![1](images/1.png)
-![2](images/2.png)
+<br><br>![1](images/1.png)
+<br><br>![2](images/2.png)
 <a name="3"></a>
 ## System Design
 <a name="31"></a>
 #### 3.1 Over All System Design Using Designing Tools
 - The Purpose of Design Phase is to plan a solution for problem specified by the requirements. System Design aims to identify the modules that should be in the system, the specification of those modules and how they interact with other to produce the results. The goal of the design process is to produce a model that can be used later to build that system. The produced model is called design of the system.
-![3](images/3.png)
-![4](images/4.png)
+<br><br>![3](images/3.png)
+<br><br>![4](images/4.png)
 <a name="32"></a>
 #### 3.2 Data Dictionary
 -	Database Design & Structure Design
-![5](images/5.png)
-![6](images/6.png)
+<br><br>![5](images/5.png)
+<br><br>![6](images/6.png)
 ##### Various tables used in the System are as follows:
 1.	Admin
 2.	Book
@@ -140,17 +140,17 @@ Different amount of time may be required for each stage in the project cycle, de
 <a name="33"></a>
 #### 3.3 Input/Output Design
 1.	Home Page
-![7](images/7.png)
+<br><br>![7](images/7.png)
 2.	Selected Category
-![8](images/8.png)
+<br><br>![8](images/8.png)
 3.	Book Details (Before Login)
-![9](images/9.png)
+<br><br>![9](images/9.png)
 4.	Visitor Login Page
-![10](images/10.png)
+<br><br>![10](images/10.png)
 5.	Register Page
-![11](images/11.png)
+<br><br>![11](images/11.png)
 6.	Contact Us Page
-![12](images/12.png)
+<br><br>![12](images/12.png)
 <a name="4"></a>
 ## Testing And Implementation
 <a name="41"></a>
@@ -159,24 +159,24 @@ Different amount of time may be required for each stage in the project cycle, de
 Black-box testing is a method of software testing that examines the functionality of  an application based on the specifications. It is also known as specifications based .
 Testing Independent testing team usually perform this type of testing during   the software testing life cycle.
 This method of test can be applied to each and every level of software testing such as unit, integration, system and acceptance testing.
-![13](images/13.png)
+<br><br>![13](images/13.png)
 -	White box testing
 White box testing is a testing technique That examines the program structure and derives test data from the program logic/code. The other names of glass box testing are clear box testing, open box testing, logic driven testing or path driven testing or structural testing.
 -	Gray-box Testing: 
 Grey-box testing is a testing technique performed with limited information about the internal functionality of the system. Grey-box testers have access to the detailed design information about requirements.
 Grey box are generated based on the state based modes, UML diagrams or of the target system.
 Grey Box Testing is a technique to test the software product or application with partial knowledge of the internal workings of an application.
-![14](images/14.png)
+<br><br>![14](images/14.png)
 <a name="42"></a>
 #### 4.2 Test Cases
 ##### 4.2.1 Admin Login Detail
-![15](images/15.png)
+<br><br>![15](images/15.png)
 ##### 4.2.2 Login Detail
-![16](images/16.png)
+<br><br>![16](images/16.png)
 ##### 4.2.3 Registration Details
-![17](images/17.png)
+<br><br>![17](images/17.png)
 ##### 4.2.4 Order Details
-![18](images/18.png)
+<br><br>![18](images/18.png)
 <a name="43"></a>
 #### 4.3	Implementation approaches
 Far the biggest challenge encountered was time constraints. Implementation takes an extraordinary amount of time and a large amount of coordination. Scheduling project meetings around every group member’s schedule has been nearly impossible. Many of the group members were unable to devote the amount of focus that the implementation stage required. Both the former and the latter problem may be more of an issue in the academic environment where priorities of the different group members are skewed in a variety of directions. Another issue that cropped up was knowledge of the PHP programming. At least two of the four group members were unfamiliar with PHP Swing API, which is php primary user interface package. Again, this may not be as much of an issue in software engineering outside the academic arena.
