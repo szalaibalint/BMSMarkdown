@@ -1,5 +1,4 @@
 # Bookstore Management System
-<br><br>
 ## Table of Contents
 #### [INTRODUCTION](#1)
 - [1.1 Project Background](#11)
